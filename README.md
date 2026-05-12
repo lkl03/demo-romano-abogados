@@ -1,2 +1,7 @@
-# demo-romano-abogados
-Demo web para ROMANO ABOGADOS — diseñada por eterlab.
+# ROMANO ABOGADOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
